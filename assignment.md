@@ -129,7 +129,7 @@ test_that("Pig Latin conversion for consonant-starting word works correctly", {
 })
 ```
 
-    ## Test passed 🎉
+    ## Test passed 🎊
 
 ``` r
 test_that("Pig Latin conversion for vowel-starting word works correctly", {
@@ -140,7 +140,7 @@ test_that("Pig Latin conversion for vowel-starting word works correctly", {
 })
 ```
 
-    ## Test passed 🥇
+    ## Test passed 🎉
 
 ``` r
 test_that("Pig Latin function handles invalid input correctly", {
@@ -151,4 +151,4 @@ test_that("Pig Latin function handles invalid input correctly", {
 })
 ```
 
-    ## Test passed 🥳
+    ## Test passed 😸
